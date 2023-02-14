@@ -15,6 +15,16 @@ public class Solution
 {
     public ListNode MiddleNode(ListNode head)
     {
-        return head;
+        var node = head;
+        List<ListNode> list = new List<ListNode>();
+
+        while (node!=null)
+        {
+            list.Add(node);
+            node = node.next;
+        }
+
+        var middlePoint = (list.Count / 2);
+        return list[middlePoint];
     }
 }
