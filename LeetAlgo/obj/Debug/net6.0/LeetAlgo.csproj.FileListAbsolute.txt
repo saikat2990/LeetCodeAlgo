@@ -13,3 +13,18 @@ C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0
 C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.pdb
 C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.genruntimeconfig.cache
 C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\ref\LeetAlgo.dll
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.exe
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.deps.json
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.runtimeconfig.json
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.dll
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.pdb
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.csproj.AssemblyReference.cache
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.AssemblyInfoInputs.cache
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.AssemblyInfo.cs
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.csproj.CoreCompileInputs.cache
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.dll
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\refint\LeetAlgo.dll
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.pdb
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.genruntimeconfig.cache
+D:\Office POrashuna\LeetCodeAlgo\LeetAlgo\obj\Debug\net6.0\ref\LeetAlgo.dll

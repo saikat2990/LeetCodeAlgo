@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saikat\\Desktop\\Leetcode\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo\\LeetAlgo.csproj": {}
+    "D:\\Office POrashuna\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saikat\\Desktop\\Leetcode\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo\\LeetAlgo.csproj": {
+    "D:\\Office POrashuna\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saikat\\Desktop\\Leetcode\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo\\LeetAlgo.csproj",
+        "projectUniqueName": "D:\\Office POrashuna\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo.csproj",
         "projectName": "LeetAlgo",
-        "projectPath": "C:\\Users\\saikat\\Desktop\\Leetcode\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo\\LeetAlgo.csproj",
-        "packagesPath": "C:\\Users\\saikat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saikat\\Desktop\\Leetcode\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo\\obj\\",
+        "projectPath": "D:\\Office POrashuna\\LeetCodeAlgo\\LeetAlgo\\LeetAlgo.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Office POrashuna\\LeetCodeAlgo\\LeetAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\saikat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
