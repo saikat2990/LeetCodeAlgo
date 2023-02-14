@@ -1,0 +1,15 @@
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.csproj.AssemblyReference.cache
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.AssemblyInfoInputs.cache
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.AssemblyInfo.cs
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.csproj.CoreCompileInputs.cache
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.exe
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.deps.json
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.runtimeconfig.json
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.dll
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\bin\Debug\net6.0\LeetAlgo.pdb
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.dll
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\refint\LeetAlgo.dll
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.pdb
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\LeetAlgo.genruntimeconfig.cache
+C:\Users\saikat\Desktop\Leetcode\LeetCodeAlgo\LeetAlgo\LeetAlgo\obj\Debug\net6.0\ref\LeetAlgo.dll
